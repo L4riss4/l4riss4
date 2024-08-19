@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Larissa Xavier</h1>
 <h3 align="center">A computer engineer student from Brazil</h3>
 
+- 🔭 I’m currently working on **Iniciativa She Lovelace**
+
 - 🌱 I’m currently learning **DevOps and Mobile first with React**
 
-- 👯 I’m looking to collaborate on **Iniciativa She Lovelace**
+- 📫 How to reach me **larissa.xavier.lx15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
